@@ -1,6 +1,3 @@
-# Anoroctheoryofeverything
-
-
 # ANOROC-String Theory of Everything (TOE) Framework
 
   
