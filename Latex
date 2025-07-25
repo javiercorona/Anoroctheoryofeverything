@@ -1,0 +1,78 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{array}
+
+\title{ANOROC-String TOE Framework}
+\author{Your Name}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Key Equations}
+
+\subsection{ANOROC v2 Gravity}
+The modified Einstein field equations with curvature regularization:
+\begin{equation}
+    G_{\mu\nu} + f(K)\mathcal{H}_{\mu\nu} = \kappa T_{\mu\nu} + \mathcal{V}_{\mu\nu}
+\end{equation}
+where:
+\begin{itemize}
+    \item $f(K)$: Curvature regulator function with cutoff $K_{\text{max}} \approx 10^{76}\,\text{cm}^{-4}$
+    \item $\mathcal{H}_{\mu\nu}$: Curvature-dependent tensor
+    \item $\mathcal{V}_{\mu\nu}$: Quantum backreaction term
+\end{itemize}
+
+\subsection{ANOROC-String Coupling}
+The string-derived stress-energy tensor coupled to ANOROC gravity:
+\begin{equation}
+    S_{\text{Coupling}} = \lambda \int d^4x \sqrt{-g}\, f(K) T^{\mu\nu}_{\text{Strings}}
+\end{equation}
+
+\section{Comparison Table}
+
+\begin{table}[h]
+\centering
+\caption{ANOROC v2 vs. ANOROC-String TOE}
+\begin{tabular}{>{\raggedright}p{0.3\textwidth}>{\raggedright}p{0.3\textwidth}>{\raggedright}p{0.3\textwidth}}
+\toprule
+\textbf{Feature} & \textbf{ANOROC v2} & \textbf{ANOROC-String} \\
+\midrule
+\textbf{Gravity Framework} & 
+$G + f(K)\mathcal{H} = T + \mathcal{V}$ &
+Same, with $T^{\mu\nu}$ from strings \\
+\addlinespace
+
+\textbf{Matter/Forces} & 
+Point particles & 
+1D strings on 4D brane \\
+\addlinespace
+
+\textbf{Singularity Resolution} & 
+$K_{\text{max}}$ cutoff & 
+$K_{\text{max}}$ + T-duality \\
+\addlinespace
+
+\textbf{UV Completion} & 
+Planck-scale cutoff & 
+String scale $\ell_s$ (with $K_{\text{max}} \sim \ell_s^{-4}$) \\
+\addlinespace
+
+\textbf{Testability} & 
+GW ringdown shifts & 
+GWs + collider string excitations \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Key Synergies}
+\begin{itemize}
+    \item \textbf{4D Spacetime}: No compactified extra dimensions (strings confined to brane)
+    \item \textbf{Dual Singularity Protection}: Curvature cutoff + T-duality
+    \item \textbf{Empirical Tests}: Combined GW signatures (ANOROC) and collider probes (strings)
+\end{itemize}
+
+\end{document}
