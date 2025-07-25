@@ -22,13 +22,4 @@ Key features:
 
 
 
-@software{YourName_ANOROC-String_2024,
-  author       = {Your Name and Collaborators},
-  title        = {ANOROC-String TOE Framework},
-  month        = July,
-  year         = 2024,
-  publisher    = {Zenodo},
-  version      = {v1.0},
-  doi          = {10.5281/zenodo.XXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXX}
-}
+@2023 corona 
