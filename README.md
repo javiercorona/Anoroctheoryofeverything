@@ -18,3 +18,17 @@ Key features:
 ## Files
 
 <img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/9c69c96e-f7dc-4f8f-9817-1508aac9be1f" />
+
+
+
+
+@software{YourName_ANOROC-String_2024,
+  author       = {Your Name and Collaborators},
+  title        = {ANOROC-String TOE Framework},
+  month        = July,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.XXXXXX},
+  url          = {https://doi.org/10.5281/zenodo.XXXXXX}
+}
