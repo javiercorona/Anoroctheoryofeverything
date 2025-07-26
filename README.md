@@ -10,7 +10,8 @@ This repository contains the definitive formulation of the **ANOROC-String TOE**
 - **4D Covariant Gravity**: Curvature-regulated spacetime with exponential cutoff $f(K) = 1 - e^{-K/K_{\text{max}}}$
 - **String-Theoretic Matter**: Nambu-Goto action coupled to regulated curvature
 - **Dual UV Completion**: $K_{\text{max}} = \ell_s^{-4}$ linking string length to curvature cutoff
-![image](https://github.com/user-attachments/assets/e7e3a6a5-84be-4cd1-8837-cea4067cac25)
+![image](https://github.com/user-attachments/assets/40a6798c-ac5e-465c-89cc-375e675f89e6)
+
 
 ## Key Features
 - **Singularity Resolution**: Combines ANOROC's curvature cutoff with String Theory's T-duality
