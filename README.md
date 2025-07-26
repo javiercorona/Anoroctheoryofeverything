@@ -23,15 +23,15 @@ This repository contains the definitive formulation of the **ANOROC-String TOE**
   - $\lambda = \kappa/2\pi\alpha'$ (unitarity bounds: 0.1-1)
   - $\beta = 4\ln(2)$ from black hole entropy matching
 
-##
-
-## Installation & Compilation
-```bash
-git clone https://github.com/yourusername/ANOROC-String-TOE.git
-pdflatex ANOROC-String_TOE.tex
-```
-
-## Usage
+\[
+\boxed{
+\begin{aligned}
+&\text{Action: } S = \int d^4x \sqrt{-g} \left[ \frac{f(K)R}{2\kappa} + \lambda f(K) L_{\text{String}} \right], \quad f(K) = 1 - e^{-K/K_{\text{max}}}, \quad K_{\text{max}} = \ell_s^{-4}, \\
+&\text{Field Eqs: } f(K)G_{\mu\nu} + \left[ \frac{g_{\mu\nu} \Box - \nabla_\mu \nabla_\nu}{2} \right] f(K) + \kappa \lambda f(K) \mathcal{H}_{\mu\nu} = \kappa T_{\mu\nu}, \\
+&\text{Tests: } \frac{\Delta \omega}{\omega} \sim 1 - e^{-K/K_{\text{max}}}, \quad \sigma \sim e^{-(E \ell_s)^2}.
+\end{aligned}
+}
+\]
 ### For Researchers
 - Modify `derivations/backreaction.tex` to test alternative regularization schemes
 - Adjust $\ell_s$ bounds in `parameters.tex` for new collider constraints
