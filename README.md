@@ -1,6 +1,9 @@
 ### ** ANOROC-String Theory**  
 *(Synthesized from your accurate earlier notes and fixes)*  
 
+![image](https://github.com/user-attachments/assets/2be6a33e-2b68-4315-864c-b6b255695e2d)
+
+
 #### **Action**  
 \[
 S = \int d^4x \sqrt{-g} \left[ \frac{f(K)R}{2\kappa} + \lambda f(K) L_{\text{String}} \right], \quad f(K) = 1 - e^{-K/K_{\text{max}}}
