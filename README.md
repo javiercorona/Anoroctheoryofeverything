@@ -1,4 +1,5 @@
 ### ** ANOROC-String Theory**  
+![image](https://github.com/user-attachments/assets/f5254984-beb3-493c-b502-7265099cb800)
 
 
 ![image](https://github.com/user-attachments/assets/2be6a33e-2b68-4315-864c-b6b255695e2d)
