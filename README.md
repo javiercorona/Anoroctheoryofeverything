@@ -1,4 +1,7 @@
 ### ** ANOROC-String 
+
+![image](https://github.com/user-attachments/assets/ab807781-9f52-4f6e-9592-b0735d45bd32)
+
 ![image](https://github.com/user-attachments/assets/fdefc8d9-ab10-4fc3-bf70-9b038986fc70)
 
 
